@@ -1,0 +1,14 @@
+# 环境变量（含 API Key 和数据库密码）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时文件
+*.swp
+*.swo
