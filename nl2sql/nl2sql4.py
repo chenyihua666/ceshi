@@ -35,7 +35,7 @@ DB_CONFIG = {
     'database': os.getenv('DB_NAME', 'wolin_student_system'),
     'charset': 'utf8mb4'
 }
-#12312312345
+#12312312345天天
 SCHEMA = """
 数据库中有五张表：
 
